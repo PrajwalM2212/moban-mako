@@ -10,9 +10,8 @@ moban-mako
 .. image:: https://img.shields.io/github/stars/moremoban/moban-mako.svg?style=social&maxAge=3600&label=Star
     :target: https://github.com/moremoban/moban-mako/stargazers
 
-.. image:: https://readthedocs.org/projects/moban-mako/badge/?version=latest
-   :target: http://moban-mako.readthedocs.org/en/latest/
 
+moban-mako Provide mako templating capability to moban.
 
 Installation
 ================================================================================
